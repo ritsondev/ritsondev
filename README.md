@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm ritsondev16<h1/>
+<h1>Hi 👋, I'm ritsondev<h1/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritsondev16&label=Profile%20views&color=0e75b6&style=flat" alt="ritsondev16" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritsondev16" alt="ritsondev16" /></a> </p>
