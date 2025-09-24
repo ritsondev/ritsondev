@@ -65,4 +65,38 @@ My name is Ronaldo Mona, but I'm better known as ritsondev. I work in software d
 <h2 style="color: #444; font-size: 2em; margin-top: 30px; margin-bottom: 10px;">My GitHub Stats</h2> 
 <div style="text-align: center; margin-bottom: 20px;"> 
 <a href="https://github.com/ritsondev"> 
-<img src="https://github-readme-s
+<img src="https://github-readme-stats.vercel.app/api?username=ritsondev&show_icons=true&theme=radical" alt="GitHub Stats" style="margin: 5px;" /> 
+</a> 
+</div> 
+<div style="text-align: center; margin-bottom: 20px;"> 
+<a href="https://github.com/ritsondev"> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritsondev&layout=compact&theme=radical" alt="Top Languages" style="margin: 5px;" /> 
+</a> 
+</div> 
+
+<h2 style="color: #444; font-size: 2em; margin-top: 30px; margin-bottom: 10px;">Connect with Me</h2> 
+<ul style="list-style: none; padding-left: 0; margin-bottom: 15px;"> 
+<li style="margin-bottom: 8px;"> 
+<a href="https://www.linkedin.com/in/ronaldo-mona-170891246/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritsondev16-LINKED-IN" height="30" width="40" style="max-width: 100%;">Linkdin</a> 
+</li> 
+<li style="margin-bottom: 8px;"> 
+<a href="https://www.facebook.com/ritsondop" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ritsondev16" height="30" width="40" style="max-width: 100%;">Facebook</a> 
+</li> 
+<li style="margin-bottom: 8px;"> 
+<a href="https://www.instagram.com/ritsondev/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ritsondev16-INSTAGRAM" height="30" width="40" style="max-width: 100%;">Instagram</a> 
+</li> 
+<li style="margin-bottom: 8px;"> 
+<a href="https://www.youtube.com/channel/UCSgzZg05KWt66pLCGg-NwBg" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ritsondev16" height="30" width="40" style="max-width: 100%;">Youtube</a> 
+</li> 
+</ul> 
+<p align="left" dir="auto"> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b5bd81209c4e6ec9a344980a6dc77c8fd 275771e7d43d73438d3aa79d24d46ce/68747470733a2f2f6b6f6d617265762e636f6d2f676 87076632f3f757365726e616d653d726974736f6e6465763136266c6162656c3d50726f666 96c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174"><img src="https://camo.githubusercontent.com/b5bd81209c4e6ec9a344980a6dc77c8fd 275771e7d43d73438d3aa79d24d46ce/68747470733a2f2f6b6f6d617265762e636f6d2f6 7687076632f3f757365726e616d653d726974736f6e6465763136266c6162656c3d50726f 66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="ritsondev16" data-canonical-src="https://komarev.com/ghpvc/?username=ritsondev16&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;"></a> </p>
+
+<h2 style="color: #444; font-size: 2em; margin-top: 30px; margin-bottom: 10px;">Contact</h2>
+<p style="margin-bottom: 15px;">
+If you'd like to collaborate, send suggestions, or discuss new ideas, feel free to get in touch. I'm always open to new challenges and opportunities in the world of development. </p>
+
+<hr style="margin-top: 40px; margin-bottom: 10px;">
+<p style="text-align: center;"><em>Updated April 2025</em></p>
+
+</body>
+</html>
