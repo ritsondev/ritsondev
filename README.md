@@ -63,13 +63,6 @@
     <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart Badge" style="margin: 2px;" />
   </div>
 
-  <h2 style="color: #444; font-size: 2em; margin-top: 30px; margin-bottom: 10px;">Projetos em Destaque</h2>
-  <ul style="list-style-type: disc; padding-left: 20px; margin-bottom: 15px;">
-    <li style="margin-bottom: 5px;"><a href="https://github.com/ritsondev/ritsondev" style="color: #0366d6; text-decoration: none;">ritsondev</a>: Projeto pessoal que reúne exemplos dos meus experimentos e competências.</li>
-    <li style="margin-bottom: 5px;"><a href="https://github.com/ritsondev/Gest-o_de_campanha_eleitoral" style="color: #0366d6; text-decoration: none;">Gest-o_de_campanha_eleitoral</a>: Sistema para gestão de campanhas eleitorais, demonstrando integração de múltiplas tecnologias.</li>
-    <li style="margin-bottom: 5px;"><a href="https://github.com/ritsondev/VIRUS_DEVELOPMENT" style="color: #0366d6; text-decoration: none;">VIRUS_DEVELOPMENT</a>: Repositório experimental para estudos na área de segurança – utilize com responsabilidade!</li>
-  </ul>
-
   <h2 style="color: #444; font-size: 2em; margin-top: 30px; margin-bottom: 10px;">Minhas Estatísticas no GitHub</h2>
   <div style="text-align: center; margin-bottom: 20px;">
     <a href="https://github.com/ritsondev">
