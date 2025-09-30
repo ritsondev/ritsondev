@@ -46,7 +46,7 @@ My name is Ronaldo Mona, but I'm better known as ritsondev. I work in software d
 <h2 style="color: #444; font-size: 2em; margin-top: 30px; margin-bottom: 10px;">Connect with Me</h2> 
 <ul style="list-style: none; padding-left: 0; margin-bottom: 15px;"> 
 <li style="margin-bottom: 8px;"> 
-<a href="https://www.linkedin.com/in/ronaldo-mona-170891246/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritsondev16-LINKED-IN" height="30" width="40" style="max-width: 100%;">Linkdin</a> 
+<a href="https://ao.linkedin.com/in/ronaldo-mona-25b964267" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritsondev16-LINKED-IN" height="30" width="40" style="max-width: 100%;">Linkdin</a> 
 </li> 
 <li style="margin-bottom: 8px;"> 
 <a href="https://www.facebook.com/ritsondop" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ritsondev16" height="30" width="40" style="max-width: 100%;">Facebook</a> 
